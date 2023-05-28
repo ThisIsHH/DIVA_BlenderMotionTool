@@ -12,7 +12,7 @@ https://github.com/powroupi/blender_mmd_tools
 # How to use
 Open the .blend file, select 'MMD' Armature object and import the vmd file
 
-## JSON Export/Conversion
+## JSON Export/Convertion
 When you're ready to export, follow these steps:
 
 1- Go to the 'Scripting' tab, in *file_name = "Set your motion name here"* (line 7), change the name you want. For example:
