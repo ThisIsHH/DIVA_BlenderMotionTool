@@ -20,7 +20,7 @@ When you're ready to export, follow these steps:
 Run the script. It should take time (no more than 2 minutes in a full 60fps 3 min. music) 
 Your export is going to be in the same directory where the .blend file is located.
 
-2- Use Korekonder's PD Tool for conversion:
+2- Use Korekonder's PD Tool for convertion:
 Run PD Tool and select 'AC/DT/F/AFT Converting Tools' -> MOT -> Select your JSON export.
 Depending of the frames in your motion is going to take a while to convert to a .bin file
 
