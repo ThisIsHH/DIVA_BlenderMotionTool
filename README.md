@@ -27,6 +27,7 @@ Depending of the frames in your motion is going to take a while to convert to a 
 # Important notes
 - This script/rig is still in development for better result and optimization. Is not a final product
 - Your MMD motion is supposed to be in 60fps for standard frame rate
+- If you plan to do a project with the tool, it's recommended to keep the MMD motion on hand so that you can easily update it when newer updates are made
 
 # Credits
 - [korenkonder](https://github.com/korenkonder) for JSON layout and PD Tool.
