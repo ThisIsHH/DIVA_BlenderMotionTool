@@ -22,7 +22,6 @@ Your export is going to be in the same directory where the .blend file is locate
 
 2- Use Korenkonder's PD Tool for conversion:
 Run PD Tool and select 'AC/DT/F/AFT Converting Tools' -> MOT -> Select your JSON export.
-Depending of the frames in your motion is going to take a while to convert to a .bin file
 
 # Important notes
 - This script/rig is still in development for better result and optimization. Is not a final product
