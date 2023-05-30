@@ -7,7 +7,7 @@ The script takes all the values in the scene from specific bones listed frame by
 
 # What do you need 
 You need MMD Tools for importing VMD motions
-https://github.com/powroupi/blender_mmd_tools
+https://github.com/UuuNyaa/blender_mmd_tools
 
 # How to use
 Open the .blend file, select 'MMD' Armature object and import the vmd file
