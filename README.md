@@ -29,6 +29,6 @@ Run PD Tool and select 'AC/DT/F/AFT Converting Tools' -> MOT -> Select your JSON
 - If you plan to do a project with the tool, it's recommended to keep the MMD motion on hand so that you can easily update it when newer updates are made
 
 # Credits
-- [korenkonder](https://github.com/korenkonder) for JSON layout and PD Tool.
+- [korenkonder](https://github.com/korenkonder) for script support, JSON layout and PD Tool.
 https://github.com/korenkonder/PD_Tool
 - [FlyingSpirits](https://github.com/FlyingSpirits) for the impressive work on MMD-DIVA rig.
