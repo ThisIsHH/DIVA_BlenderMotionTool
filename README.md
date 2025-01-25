@@ -1,3 +1,7 @@
+# Deprecated🛑
+**This repository is no longer maintained and is outdated.**  
+**A new addon is being developed:** [**Blender_DIVA_Tools**](https://github.com/ThisIsHH/Blender_DIVA_Tools).
+
 # DIVA_BlenderMotionTool
 A .blend/.py that allow you to export a JSON Project Diva motion data.
 A work with [FlyingSpirits](https://github.com/FlyingSpirits)
